@@ -3,7 +3,7 @@ import axios from 'axios';
 import { GiSpeaker } from "react-icons/gi";
 
 function TranslateComponent() {
-  const [to, setTo] = useState('en');
+  const [to, setTo] = useState('vi');
   const [from, setFrom] = useState('en');
   const [input, setInput] = useState('');
   const [output, setOutput] = useState('');
