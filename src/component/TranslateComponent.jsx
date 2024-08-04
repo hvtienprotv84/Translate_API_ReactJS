@@ -97,7 +97,7 @@ function TranslateComponent() {
 
         <div className='absolute top-0 mt-[20px] lg:mt-[10px] flex flex-row justify-center items-center'>
           <img className='lg:w-[80px] w-[30px]' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/768px-Google_Translate_logo.svg.png"/>
-          <p className='text-white font-bold ml-[10px] text-[14px] lg:text-[60px]'>Translate API - Dịch Ngôn Ngữ API - ReactJS</p>
+          <p className='text-white font-bold ml-[10px] text-[14px] lg:text-[60px]'>Translate API - Dịch Ngôn Ngữ API - ReactJS2</p>
           <img className='lg:w-[80px] w-[30px] ml-[10px]' src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
         </div>      
       <div className="bg-gradient-to-l from-blue-800 to-blue-300 mt-[60px] mb-[30px] shadow-lg rounded-xl p-6 w-full max-w-4xl">
