@@ -1,4 +1,4 @@
-<p align="center">Translate API - Dịch Ngôn Ngữ API - ReactJS</p>
+<h1 align="center">Translate API - Dịch Ngôn Ngữ API - ReactJS</h1>
 
 - ReactJS
 - Axios
