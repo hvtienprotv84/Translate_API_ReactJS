@@ -4,6 +4,7 @@
 - Axios
 - Rapid API
 - Vite.js
+- Responsive Website và Mobile
 
 ## Run
 - `npm install`
